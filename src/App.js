@@ -11,7 +11,8 @@ render(){
       {series.map(series => <Card imgsrc={series.imgscr} title={series.title} sname={series.sname} 
       link={series.link} />)}
      
-      
+      <p> testing git</p>
+      <h1>testing </h1>
       </>
      );
   
