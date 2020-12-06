@@ -12,7 +12,7 @@ render(){
       link={series.link} />)}
      
       <p> testing git</p>
-      <h1>testing </h1>
+      
       </>
      );
   
